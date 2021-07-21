@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# AD <small></small>
+# Wolf <small></small>
 
 > Auto simulate deviceinfo show and click AD.
 
