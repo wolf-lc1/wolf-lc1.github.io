@@ -1,14 +1,14 @@
+
+![logo](_media/icon.png)
 <!-- _coverpage.md -->
 
 <!-- ![logo](_media/icon.svg) -->
 
 # Wolf <small></small>
 
-> Auto simulate deviceinfo show and click AD.
-
-- cpc, auto click ad.
-- cpa, turn new user mission.
-- cpo, old user mission.
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
 
 
  ‘<small>◎</small>-<small>◎</small>’
